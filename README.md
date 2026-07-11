@@ -15,4 +15,12 @@ Solution
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/First-Pan/LeetCode-Journey/tree/master/0002-add-two-numbers) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/First-Pan/LeetCode-Journey/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/First-Pan/LeetCode-Journey/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
